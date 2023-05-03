@@ -1,9 +1,18 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body{
-    display: flex;
-    background-image: url("/image/Inicio.jpg");
+    font-family: ;
+
+    /* display: flex;
+    background-image: url("/assets/image/Inicio.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    margin: 10px;
+    margin: 10px; */
 }
 
 header{
