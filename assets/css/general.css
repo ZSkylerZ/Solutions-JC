@@ -35,6 +35,7 @@ header .title {
 
 header .title h1 {
 	color: white;  
+    font-size: 30px;
     font-weight: 900 ;
     font-style: italic;
     text-shadow: 2px 2px 5px rgba(197, 29, 29, 0.315), -2px -2px 4px #59abff;
